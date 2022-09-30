@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Johnson Studio - Nutrition Coach & Chef Consultant"
+title = "Johnsson Studio - Nutrition Coach & Chef Consultant"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
