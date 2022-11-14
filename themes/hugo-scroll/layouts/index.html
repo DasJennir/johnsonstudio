@@ -9,9 +9,12 @@
             {{ with .Params.header_headline }}<h1 class="blog-title">{{ . }}</h1>{{ end }}
             {{ with .Params.header_subheadline }}<h2 class="blog-description">{{ . }}</h2>{{ end }}
 
-            {{ range where $sections ".Params.header_menu" "eq" true }}
-                 <a class='btn site-menu' data-title-anchor='{{ anchorize .Title }}'>{{ .Title }}</a>
-            {{ end }}
+    
+            <a class="btn site-menu" data-title-anchor="projects">Projects</a>
+            <a class="btn site-menu" data-title-anchor="testimonials">Testimonials</a>
+            <a style="  background-color: red;" class="btn site-menu" data-title-anchor="contact">Contact 📞 </a>
+               
+      
             <i id='header-arrow' class="fa fa-angle-down"></i>
         </div>
     </div>
