@@ -10,5 +10,5 @@ header_menu: true
 
 {{<icon class="fa fa-instagram">}}&nbsp;[Instagram](https://www.instagram.com/johnssonstudio/)
 
-{{<icon class="fa fa-youtube">}}&nbsp;[Youtube](https://www.youtube.com/c/JohnssonStudio)
+
 
