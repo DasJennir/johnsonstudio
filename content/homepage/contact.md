@@ -8,7 +8,7 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+1 (647) 678-2179](tel:+16476782179)
 
-{{<icon class="fa fa-instagram">}}&nbsp;[Instagram](https://www.instagram.com/johnssonstudio/)
+
 
 
 
